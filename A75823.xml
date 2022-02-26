@@ -1,0 +1,1448 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of what captives hath been freed since the 14th of December, Anno Dom. 1647</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75823</idno>
+            <idno type="STC">Wing A426A</idno>
+            <idno type="STC">ESTC R173180</idno>
+            <idno type="EEBO-CITATION">45504675</idno>
+            <idno type="OCLC">ocm 45504675</idno>
+            <idno type="VID">171569</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75823)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171569)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2577:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of what captives hath been freed since the 14th of December, Anno Dom. 1647</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, Printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prisoners --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171569:1" rendition="simple:additions"/>
+            <head>AN ACCOVNT OF WHAT CAPTIVES Hath been freed ſince the 14<hi rend="sup">th</hi> of <hi>December, Anno Dom.</hi> 1647.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">Dollors.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>VVIlliam Burnock</hi> of Plymouth,</cell>
+                     <cell>64 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Corn</hi> of Plymouth,</cell>
+                     <cell>154</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Hanes</hi> of Newcaſtle,</cell>
+                     <cell>119</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>George Burton</hi> of Dartmouth,</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Whitfield</hi> of Briſtol,</cell>
+                     <cell>73</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Emmanuel Grout</hi> of Weymouth,</cell>
+                     <cell>101 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Loches</hi> of Dartmouth,</cell>
+                     <cell>120</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Margaret Mots</hi> of London,</cell>
+                     <cell>180</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Spret</hi> of Briſtol,</cell>
+                     <cell>55</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Katherine Cook</hi> of Baltmore,</cell>
+                     <cell>70</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Chriſtopher Britner</hi> of Topſon,</cell>
+                     <cell>112</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Andrew Chambers</hi> of Southampton,</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Jone Hains</hi> of Yohal,</cell>
+                     <cell>120</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Adams</hi> of Plymouth,</cell>
+                     <cell>115 ¼</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Sweet</hi> of Dartmouth,</cell>
+                     <cell>98</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="2" facs="tcp:171569:2"/> 
+                        <hi>John Turner</hi> of Briſtol,</cell>
+                     <cell>130</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Cullinge</hi> of London,</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Hinſhawe</hi> of Briſtol,</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Chanel</hi> of Topſon,</cell>
+                     <cell>139</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Rooper</hi> of Dartmouth,</cell>
+                     <cell>97</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Hooper</hi> of Topſon,</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Durrum</hi> of Plymouth,</cell>
+                     <cell>215 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Fortune</hi> of Cidmouth,</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Arthur Roeppe</hi> of Dartmouth,</cell>
+                     <cell>102 ¼</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Potter</hi> of Exeter,</cell>
+                     <cell>129 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Allen</hi> of Dartmouth,</cell>
+                     <cell>79 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Ford</hi> of Yahal,</cell>
+                     <cell>161</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Garford</hi> of London,</cell>
+                     <cell>240</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Allen</hi> of Yahal,</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Wilſon</hi> of Northyarmouth,</cell>
+                     <cell>90 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bartholomew Croſſe</hi> of Barnſtable,</cell>
+                     <cell>202 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Steel</hi> of London,</cell>
+                     <cell>71</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Bateman</hi> of Plymouth,</cell>
+                     <cell>116</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Boway</hi> of Dartmouth,</cell>
+                     <cell>145</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Jefferies</hi> of Yahal,</cell>
+                     <cell>275</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Homar Gotheridge</hi> of Dartmouth,</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>William Dun</hi> of Foy,</item>
+                           <item>
+                              <hi>Henry Johns</hi> of Plymouth,</item>
+                        </list>
+                     </cell>
+                     <cell>235</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Bots</hi> of Ingram,</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Toms</hi> of Foy,</cell>
+                     <cell>83</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Caſwel</hi> of London,</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Wills</hi> of Wareome,</cell>
+                     <cell>93</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Moon</hi> of Briſtol,</cell>
+                     <cell>107 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Baſſe</hi> of London,</cell>
+                     <cell>129</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Cox</hi> of Dartmouth,</cell>
+                     <cell>70 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Lovel</hi> of Sancombe,</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Croſby</hi> of Barking,</cell>
+                     <cell>107 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Matthews</hi> of Weymouth,</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Gunney</hi> of Lowe,</cell>
+                     <cell>64 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Davis</hi> of Lowe,</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Peter Gitting</hi> of Miniard,</cell>
+                     <cell>54</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="3" facs="tcp:171569:2"/> 
+                        <hi>Matthew Hill</hi> of Briſtol,</cell>
+                     <cell>111 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Buffet</hi> of Pool,</cell>
+                     <cell>107 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Anthony Smith</hi> of Barnſtable,</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>George Gregory</hi> of Dartmouth,</cell>
+                     <cell>101 ¼</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard King</hi> of Dartmouth,</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>David Web</hi> of Briſtol,</cell>
+                     <cell>107 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Cord</hi> of Plymouth,</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Gamlyn</hi> of Southampton,</cell>
+                     <cell>107 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nicholas Lydden</hi> of Lowe,</cell>
+                     <cell>80 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Dodſworth</hi> of Kingſail,</cell>
+                     <cell>116</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edmond Smith</hi> of Topſon,</cell>
+                     <cell>74</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Jent</hi> of Lyme,</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Patrick Robinſon</hi> of Barnſtable,</cell>
+                     <cell>107</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Web</hi> of Hampton,</cell>
+                     <cell>101 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Whitford</hi> of Plymouth,</cell>
+                     <cell>194</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Wells</hi> of London,</cell>
+                     <cell>194</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Price</hi> of Dartmouth,</cell>
+                     <cell>215 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Roger Fairweather</hi> of Plymouth,</cell>
+                     <cell>194</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Matthew Morris</hi> of London,</cell>
+                     <cell>215 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>George Hunt</hi> of London,</cell>
+                     <cell>194</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Chriſtopher Pearce</hi> of London,</cell>
+                     <cell>167 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Brown</hi> of Topſon,</cell>
+                     <cell>215 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>George Bagglehale</hi> of Barnſtable,</cell>
+                     <cell>215 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Atwel</hi> of Northyarmouth,</cell>
+                     <cell>194</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Corbet</hi> of Plymouth,</cell>
+                     <cell>258 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Melcher Yeo</hi> of Barnſtable,</cell>
+                     <cell>215 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Pool</hi> of London,</cell>
+                     <cell>173</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Roger Johnſon</hi> of London,</cell>
+                     <cell>280</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Stevens</hi> of Briſtol,</cell>
+                     <cell>215 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Anthony Holms</hi> of Dover,</cell>
+                     <cell>172</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Danton</hi> of Sandwich,</cell>
+                     <cell>172</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Cox</hi> of Dover,</cell>
+                     <cell>194</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Addey</hi> of Dover,</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Corbet</hi> of London,</cell>
+                     <cell>129 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Johnſon</hi> of London,</cell>
+                     <cell>215 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Wiſe</hi> of Lyme,</cell>
+                     <cell>215 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="4" facs="tcp:171569:3"/> 
+                        <hi>John Maddox</hi> of Briſtol,</cell>
+                     <cell>237</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Bennet</hi> of Pool,</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Baly</hi> of Plymouth,</cell>
+                     <cell>194</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Langworth</hi> of Dover,</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Handford</hi> of Southampton,</cell>
+                     <cell>215 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Valence</hi> of Weymouth,</cell>
+                     <cell>75 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Davis</hi> of Kingſail,</cell>
+                     <cell>215 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Hains</hi> of London,</cell>
+                     <cell>100 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Michel</hi> of Foy,</cell>
+                     <cell>64 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Duch</hi> of London,</cell>
+                     <cell>107 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Giles</hi> of Lowe,</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Samuel Bowman</hi> of Plymouth,</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Williams</hi> of Barnſtable,</cell>
+                     <cell>70</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Walker</hi> of Briſtol,</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Francis Moor</hi> of London,</cell>
+                     <cell>75</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John How</hi> of Dartmouth,</cell>
+                     <cell>129 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Francis Clodde</hi> of Pool,</cell>
+                     <cell>118 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Moyles Wallis</hi> of Foy,</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Chambers</hi> of London,</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Soudon</hi> of London,</cell>
+                     <cell>97</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Rauſon</hi> of London,</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Paul Lucombe</hi> of Dartmouth,</cell>
+                     <cell>129 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Taber</hi> of Jarnſey,</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Doncuc</hi> of London,</cell>
+                     <cell>103</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Kempte</hi> of Scarborough,</cell>
+                     <cell>120 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Sam</hi> of Barnſtable,</cell>
+                     <cell>75</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Chriſtopher Richards</hi> of Briſtol,</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Moſſe</hi> of London,</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Chriſtopher Darbiſhire</hi> of Briſtol,</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Bryan</hi> of London,</cell>
+                     <cell>107 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Walter Churchwarden</hi> of Dartmouth,</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Cudbert</hi> of Plymouth,</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Crew</hi> of Dartmouth,</cell>
+                     <cell>75</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Thomas</hi> and</item>
+                           <item>
+                              <hi>Francis Bond</hi>
+                           </item>
+                        </list> of Foy,</cell>
+                     <cell>522 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Margaret Maſon</hi> of London,</cell>
+                     <cell>300</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Matthew Pollard</hi> of Barnſtable,</cell>
+                     <cell>79 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="5" facs="tcp:171569:3"/> 
+                        <hi>Thomas Burly</hi> of Briſtol,</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Hill</hi> of Barnſtable,</cell>
+                     <cell>84</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Hughes</hi> of Barnſtable,</cell>
+                     <cell>99</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Martin</hi> of Folmouth,</cell>
+                     <cell>64 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Guills</hi> of Plymouth,</cell>
+                     <cell>82 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Thompſon</hi> of Liverpool,</cell>
+                     <cell>95</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Heek</hi> of Briſtol,</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Elizabeth</hi> and</item>
+                           <item>
+                              <hi>Deborah Ford</hi>
+                           </item>
+                        </list> of Yahal,</cell>
+                     <cell>258</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Maſſon</hi> of Milford,</cell>
+                     <cell>902 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Francis Somers</hi> of Briſtol,</cell>
+                     <cell>57</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Thorn</hi> of Plymouth,</cell>
+                     <cell>112</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Heyman</hi> of Jarſey,</cell>
+                     <cell>107 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lewes Langford</hi> of London,</cell>
+                     <cell>108 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Palmer</hi> of Foy,</cell>
+                     <cell>64 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>George Brockes</hi> of Plymouth,</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Martin</hi> of Dartmouth,</cell>
+                     <cell>115 ¼</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Scot</hi> of London,</cell>
+                     <cell>55</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Winefrith Tavernor</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Tavernor</hi>
+                           </item>
+                        </list> of Yahal,</cell>
+                     <cell>176</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Roger Beamont</hi> of Dartmouth,</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Armſtone</hi> of London,</cell>
+                     <cell>75 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Oliver Hughes</hi> of Briſtol,</cell>
+                     <cell>58 ¼</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Benjamin Garret</hi> of Pool,</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Bee</hi> of Lime,</cell>
+                     <cell>86 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Peter Medford</hi> of Lime,</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Down</hi> of Plymouth,</cell>
+                     <cell>73 ¼</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Foſter</hi> of Saltaſh,</cell>
+                     <cell>250</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Woods Crobert</hi> of Dartmouth,</cell>
+                     <cell>92 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Welling</hi> of Plymouth,</cell>
+                     <cell>191 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Lewes</hi> of Barnſtable,</cell>
+                     <cell>107 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Heyden</hi> of Topſon,</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Samuel Vern</hi> of London,</cell>
+                     <cell>113 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Giles</hi> of London,</cell>
+                     <cell>129 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Lee</hi> of Dartmouth,</cell>
+                     <cell>110</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Brown</hi> of Weymouth,</cell>
+                     <cell>194</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Kendal</hi> of Plymouth,</cell>
+                     <cell>400</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="6" facs="tcp:171569:4"/> 
+                        <hi>Thomas Hosketh</hi> of Weſtcheſter,</cell>
+                     <cell>0107 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Lynine</hi> of Plymouth,</cell>
+                     <cell>97</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Biſhopp</hi> of Dartmouth,</cell>
+                     <cell>101</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Diſne</hi> of London,</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>George Poode</hi> of Barnſtable,</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Sheeres</hi> of Dartmouth,</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Simon Holden</hi> of Saltaſh,</cell>
+                     <cell>108 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Tucker</hi> of Barnſtable,</cell>
+                     <cell>172</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Solomon Sribb</hi> of Hampton,</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Buckley</hi> of London,</cell>
+                     <cell>300</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>John</hi> and</item>
+                           <item>
+                              <hi>Suſan Felmate</hi>
+                           </item>
+                        </list> of Yahal,</cell>
+                     <cell>215 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tho: Bennet</hi> of Dartmouth,</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nicholas Houſe</hi> of Phymouth,</cell>
+                     <cell>96</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Chriſtopher <g ref="char:V">Ʋ</g>ingate</hi> of Glocheſter,</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>George Roach</hi> of Yahal,</cell>
+                     <cell>64 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Sandley</hi> of Pool,</cell>
+                     <cell>126</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Wadland</hi> of Dartmouth,</cell>
+                     <cell>103 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Medcaffe</hi> of Newcaſtle,</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Brockes</hi> of London,</cell>
+                     <cell>118</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Johnſon</hi> of Hull,</cell>
+                     <cell>157 ¼</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Fabes</hi> of Dartmouth,</cell>
+                     <cell>116</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Geare</hi> of London,</cell>
+                     <cell>35</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Arthur Bond</hi> of Southampton,</cell>
+                     <cell>103 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hugh Bullock</hi> of Kingſaile,</cell>
+                     <cell>113 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Cranwel</hi> of London,</cell>
+                     <cell>102</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Genings</hi> of London,</cell>
+                     <cell>199</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>George Snell</hi> of Dartmouth,</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nicholas Lampen</hi> of Plymouth,</cell>
+                     <cell>91 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Moore</hi> of Lime,</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Down</hi> of Barnſtable,</cell>
+                     <cell>86 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Elizabeth</hi> and</item>
+                           <item>
+                              <hi>William Heyward,</hi> and</item>
+                           <item>
+                              <hi>Mary Rye</hi> her daughter,</item>
+                        </list> all of Yahal,</cell>
+                     <cell>289</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Samuel Tuney</hi> of London,</cell>
+                     <cell>215 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Arthur Gould</hi> of London,</cell>
+                     <cell>213 ¼</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Anna White</hi> of Yahal,</cell>
+                     <cell>172</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Wilmot Clarey</hi> of Yahal,</cell>
+                     <cell>75</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="7" facs="tcp:171569:4"/> 
+                        <hi>William Hoskins</hi> of Milbrock,</cell>
+                     <cell>378</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Latten</hi> of Glocheſter,</cell>
+                     <cell>160</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Squibbe</hi> of Weymouth,</cell>
+                     <cell>159 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Roſe</hi> of Rye,</cell>
+                     <cell>180</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Katherine Garret</hi> of London,</cell>
+                     <cell>176 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Tavernor</hi> of Yahal,</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Peter Wiſe</hi> of Barnſtable,</cell>
+                     <cell>140</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Jonathan Dusket</hi> of Weymouth,</cell>
+                     <cell>215 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Hawdon</hi> of Plymouth,</cell>
+                     <cell>114 ¼</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Jone Clerk</hi> of Yahal,</cell>
+                     <cell>232</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Jone Haynes</hi>
+                           </item>
+                           <item>
+                              <hi>Mary Hayns</hi>
+                           </item>
+                           <item>
+                              <hi>Suſan Haynes</hi>
+                           </item>
+                        </list> of Yahal,</cell>
+                     <cell>282 ¼</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Hooper</hi> of Plymouth,</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Galliſon</hi> of Jarſey,</cell>
+                     <cell>242</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Loſſen</hi> of Leeth,</cell>
+                     <cell>215 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>David Belford</hi> of Kercadge,</cell>
+                     <cell>215 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mary Gibbe</hi> of Edenbrough,</cell>
+                     <cell>237</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Giles Park</hi> his wife and children,</cell>
+                     <cell>431</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Jane Leeth</hi> of Edenbrough,</cell>
+                     <cell>258 ½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Hails</hi> of Dover,</cell>
+                     <cell>1905</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hugh Hails</hi> his Son,</cell>
+                     <cell>1700</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Limbrey</hi> of London,</cell>
+                     <cell>1535</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nathanael Wilcock</hi> of Barnſtable,</cell>
+                     <cell>1220</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Alice Roch</hi> of Yahal, and</item>
+                           <item>
+                              <hi>Mary Plumer</hi> her daughter,</item>
+                        </list>
+                     </cell>
+                     <cell>1750</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Anna Edwards</hi> of London,</cell>
+                     <cell>1450</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mary Garland</hi> of Briſtol,</cell>
+                     <cell>1260</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Anna Roſeman</hi> of Kingſail,</cell>
+                     <cell>1150</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Harbert</hi> of London,</cell>
+                     <cell>2200</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Elizabeth Farmer</hi> of Kingſail,</cell>
+                     <cell>1150</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Norris</hi> of Barnſtable,</cell>
+                     <cell>2343</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Somerfield</hi> of London,</cell>
+                     <cell>700</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Hill</hi> of London,</cell>
+                     <cell>900</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Parker</hi> of London,</cell>
+                     <cell>500</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Judith Thomas</hi> of London,</cell>
+                     <cell>935</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Sprat</hi> of London,</cell>
+                     <cell>700</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="8" facs="tcp:171569:5"/> 
+                        <hi>Martha Bird</hi> of London,</cell>
+                     <cell>928</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Parret</hi> of London,</cell>
+                     <cell>650</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cornelius Stevens</hi> of London,</cell>
+                     <cell>1200</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Davis</hi> of Barnſtable,</cell>
+                     <cell>464</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Roch</hi> of Plymouth,</cell>
+                     <cell>360</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Jane Maxwel</hi> of <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>849</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Jacob Chapman</hi>
+                     </cell>
+                     <cell>1392</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Philip Lugg</hi> of Apſon,</cell>
+                     <cell>1000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Allen</hi> of London,</cell>
+                     <cell>720</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Hammond</hi> of Hampton,</cell>
+                     <cell>940</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Walter Jourden</hi> of Barnſtable,</cell>
+                     <cell>905</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Wallis</hi> of Foy,</cell>
+                     <cell>1085</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Jackson</hi> of Ayer,</cell>
+                     <cell>915</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Vincent Brizard</hi> of London,</cell>
+                     <cell>1624</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Valentine Young</hi> of Dartmouth,</cell>
+                     <cell>700</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Southcot</hi> of Barnſtable,</cell>
+                     <cell>672</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Adrian Anthony</hi> of Plymouth,</cell>
+                     <cell>1050</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Hauskins</hi> of Foy,</cell>
+                     <cell>400</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Hart</hi> of Aire,</cell>
+                     <cell>320</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Ruddock</hi> of Edenbrough,</cell>
+                     <cell>650</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Hall</hi> of Leeth,</cell>
+                     <cell>730</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Walter Allen</hi> of Dartmouth,</cell>
+                     <cell>464</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mary Jacob</hi> of London,</cell>
+                     <cell>1200</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Standing</hi> of Plymouth,</cell>
+                     <cell>560</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husband,</hi> Printer to the Honorable Houſe of Commons. 1647.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
